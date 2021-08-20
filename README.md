@@ -7,3 +7,5 @@ How to use:
 2. Replace CHANNEL_ID with the id of the channel you want to bump in
 
 enjoy :)
+
+(Using selfbots is against discord's guidelines, so im not responsible if your account gets terminated)
