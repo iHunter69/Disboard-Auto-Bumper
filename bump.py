@@ -9,7 +9,7 @@ async def on_ready():
     while True:
         channel = bot.get_channel(CHANNEL_ID)
         await channel.send("!d bump")
-        print("bumped 1")
+        print("bumped")
         time.sleep(7500)
 
 bot.run("TOKEN", bot = False)
